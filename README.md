@@ -65,12 +65,5 @@ This project focuses on forecasting time series data using stock price data for 
   - `statsmodels`  
   - `tensorflow`  
 
----
-
-## How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
 
 
